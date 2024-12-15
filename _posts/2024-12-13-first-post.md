@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Our First Blog Post"
+title: "my first post"
 date: 2024-12-13
 author: Alfredo
 tags: [gay, roommates, cum]
